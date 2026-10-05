@@ -14,6 +14,7 @@ Agree on the first version's purpose, audience, content, visual approach, and ma
 - Explain football, marketing, and technical trade-offs in plain language. Do not expect the owner to supply expertise they do not have.
 - The player and parents provide their own preferences and factual answers. The owner cannot approve those on their behalf.
 - Drafting questionnaires is in scope; sending messages is not authorized. The owner shares them and brings back answers.
+- [The Spanish family questionnaire](questionnaires/family-discovery.md) is drafted. It focuses on the player and website goals, with neutral examples and a single no-search media availability question. Detailed asset collection is deferred until requirements are clearer. Family discovery remains open until answers arrive.
 - Use `claimed` and `resolved` for active and completed wayfinder tickets as required by the tracker. Other ticket statuses use the triage labels.
 - This map plans the website. It does not implement or publish it. Resolve at most one non-research ticket per working session.
 
